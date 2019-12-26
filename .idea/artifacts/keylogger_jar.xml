@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="keylogger:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/keylogger_jar</output-path>
+    <root id="archive" name="keylogger.jar">
+      <element id="module-output" name="keylogger" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/1stleg/jnativehook/2.0.2/jnativehook-2.0.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
